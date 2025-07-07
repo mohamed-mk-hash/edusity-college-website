@@ -1,8 +1,3 @@
-# React + Vite
+A modern and responsive college website built with React.js, designed for Edusity, an academic institution. The platform includes core sections such as program listings, faculty profiles, admissions information, news & announcements, and a contact form. Built entirely with reusable React components, it ensures scalability and performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project demonstrates clean component architecture, routing with React Router, dynamic content handling, and a user-first design. Though it doesn’t include a backend, it is fully structured to integrate APIs or CMS solutions as needed. The UI was crafted with accessibility and modern design practices in mind, making it a strong frontend foundation for any educational institution.
